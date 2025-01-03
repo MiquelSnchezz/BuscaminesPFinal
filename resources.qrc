@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/smile.png</file>
+        <file>Icons/freezing-face.png</file>
+    </qresource>
+</RCC>
